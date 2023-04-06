@@ -1,8 +1,8 @@
 # Country API Frontend
 
-In this little React app, you can search and filter through a public countries API, that gives you all sorts of information about a country, like population, flag, continent, currency, language and even time zones. I decided to only show the country's name, population, capital and region, but one can always expand the list of information grapped from the API at a later point.
+In this little React app, you can search and filter through a [public countries API](https://restcountries.com/#endpoints-all), that gives you all sorts of information about a country, like population, flag, continent, currency, language and even time zones. I decided to only show the country's name, population, capital and region, but one can always expand the list of information grapped from the API at a later point.
 
-I made this small project with the help of a [tutorial](https://www.freecodecamp.org/news/search-and-filter-component-in-reactjs/). The tutorial gave good information but it was a bit outdated, so the API was altered since the tutorial was created. That's why I had to research a little bit, but it wasn't hard to find the new functioning endpoints of the Country API. This challenge is also on Frontend Mentor and I would like to do more from now on to improve my frontend skills.
+I made this small project with the help of a [tutorial](https://www.freecodecamp.org/news/search-and-filter-component-in-reactjs/). The tutorial gave good information but it was a bit outdated, so the API was altered since the tutorial was created. That's why I had to research a little bit, but it wasn't hard to find the new functioning endpoints of the Country API. This challenge is also on [Frontend Mentor](https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-switcher-5cacc469fec04111f7b848ca) and I would like to do more from now on to improve my frontend skills.
 
 ## Available Scripts
 
